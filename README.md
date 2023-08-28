@@ -7,7 +7,7 @@ Sou um entusiasta de tecnologia com 27 anos, residente no interior de Minas Gera
 Apesar das adversidades, minha dedicação em prover para minha família me afastou temporariamente dos meus sonhos. No entanto, em 2020, decidi retornar aos estudos e embarcar em uma jornada para me tornar um desenvolvedor. Ingressei na faculdade de Análise e Desenvolvimento de Sistemas e participei de cursos, incluindo um conduzido pelos notáveis professores Jamilton Damasceno e Jorge Sant Ana.
 
 ## Paixão Pelo Desenvolvimento
-Através dessa jornada, minha paixão por tecnologia e desenvolvimento só cresceu. Estou dedicado a dominar as áreas de front-end, back-end e fullstack, explorando linguagens como JavaScript, Python e frameworks como React e Node.js.
+Através dessa jornada, minha paixão por tecnologia e desenvolvimento só cresceu. Estou dedicado a dominar as áreas de front-end, back-end e fullstack, explorando linguagens como JavaScript, PHP e frameworks como React e Node.js.
 
 ## Habilidades Além do Código
 Com minha experiência em equilibrar responsabilidades familiares, desenvolvi habilidades interpessoais excepcionais, como comunicação eficaz, colaboração em equipe e resolução de problemas.
